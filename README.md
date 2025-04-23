@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning python, Java, SQL, ruby
 - 💞️ I’m looking to collaborate on making software
-- 📫 How to reach me on WhatsApp +2349053863644
+- 📫 How to reach me on email spideranongreygat@gmail.com
 
 <!---
 spider863644/spider863644 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
